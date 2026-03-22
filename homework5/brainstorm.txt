@@ -1,0 +1,20 @@
+Brainstorm for Final Project
+# 1.
+- Greenhouse gas effects on Venus vs Earth vs Mars
+        - (#3) Can use matplotlib in Jupyter lab to plot the different concentrations of elements found in each of these planets and then also plot
+        another plot comparing the different surface temperatures of each of them. 
+        -(#2) NASA open Data portal has many public datasets on mars, venus, and earth that can be used to be the data that we plot.
+- orbital resonance of galilean moons
+- HR-Russel diagram and star evolution
+        -(#2) Nasa open data portal has a bright star dataset that list a source of basic astronomical 
+        and astrophysical data for stars brighter than magnitude 6.5.
+- Binary star systens
+- Planetary orbits
+        -(#2) princeton and many other universities have public datasets with planetary data on orbits that can be used to check if our code prints
+        out the correct data. 
+
+4. dream version: we create a game that lets you change different atmospheric compositions of each of the planets and compare how it is affected
+by the sun
+
+realistic: we will create a few subplots of each of the planets with their own data plotting different variables (temperature, Pressure, chemical
+composition) and then one main plot comparing the three planets.
